@@ -1,8 +1,14 @@
 # Forum-UOL-Jogos-Movel
 Aplicativo Android do Fórum UOL Jogos
 
+##### Home Screen
 ![Home screen](http://i.imgur.com/ZVUq3N2.png "Home screen")
+##### Lista de tópicos
 ![Lista de tópicos](http://i.imgur.com/Pa8oP23.png "Tópicos")
+##### Layout #1
+![Layout #1](http://i.imgur.com/rmleetm.png "Layout #1")
+##### Layout #2
+![Layout #1](http://i.imgur.com/MV6qXN3.png "Layout #1")
 
 
 #### F.A.Q.
