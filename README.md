@@ -2,7 +2,7 @@
 Aplicativo Android do Fórum UOL Jogos
 
 ###### Screenshots
-![Home screen](http://i.imgur.com/ZVUq3N2l.png "Home screen") ![Lista de tópicos](http://i.imgur.com/Pa8oP23l.png "Tópicos") ![Layout #1](http://i.imgur.com/rmleetml.png "Layout #1") ![Layout #2](http://i.imgur.com/MV6qXN3l.png "Layout #2")
+![Home screen](http://i.imgur.com/ZVUq3N2l.png "Home screen") ![Lista de tópicos](http://i.imgur.com/Pa8oP23l.png "Tópicos") ![Layout #1](http://i.imgur.com/rmleetm.png "Layout #1") ![Layout #2](http://i.imgur.com/MV6qXN3.png "Layout #2")
 
 
 
